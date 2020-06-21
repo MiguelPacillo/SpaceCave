@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    font-family: 'Press Start 2P';
+}
+
+.canvas-container {
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+}
+
+canvas {
+    background-color: black;
+}
